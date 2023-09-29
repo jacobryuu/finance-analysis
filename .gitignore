@@ -1,2 +1,9 @@
 *.class
 *.log
+.bsp
+.idea
+.gradle
+target
+build
+project
+
